@@ -2,7 +2,7 @@
 
 
 
-# Hello..  👋, I'm Sumaiya Sultana
+# Hello..  👋, I'm Sumaia Sultana
 
 [![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)](https://github.com/your-username)
 
