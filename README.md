@@ -12,16 +12,6 @@ I love building web applications, solving complex problems, and continuously lea
 - 🌱 I’m currently learning **Next.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, Express.js, or Web Development** 
-
----
-
-## GitHub Stats
-[![Sumaiya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/your-username)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)](https://github.com/your-username)  
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)](https://github.com/your-username)  
-
 ---
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
