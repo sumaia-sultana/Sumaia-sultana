@@ -1,4 +1,5 @@
-<img width="1024" height="807" alt="Git-Cover" src="https://github.com/user-attachments/assets/9b4ad09d-c4d7-498b-82df-66334b48c00f" />
+<img width="1024" height="460" alt="Github cover" src="https://github.com/user-attachments/assets/bbc1e476-610f-495d-a043-28347568db28" />
+
 
 
 # Hi there 👋, I'm Sumaiya Sultana
