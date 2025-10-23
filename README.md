@@ -13,8 +13,7 @@ I love building web applications, solving complex problems, and continuously lea
 - 💬 Ask me about **JavaScript, React, Express.js, or Web Development** 
 ---
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-sultana07/))  
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=readme&logoColor=white)](https://your-portfolio.com)  
 
 ---
