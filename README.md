@@ -8,18 +8,18 @@
 I'm a passionate **Mern-Stack Developer** specializing in **React, Express.js, and MongoDB**.  
 I love building web applications, solving complex problems, and continuously learning new technologies.  
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently exploring **Next.js**
 - 👯 I’m looking to collaborate on **open-source projects**
 - 💬 Ask me about **JavaScript, React, Express.js, or Web Development** 
 ---
 ## Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-sultana07/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-sultana07/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=readme&logoColor=white)](https://sumaia-sultana.vercel.app/)  
 
 ---
 
 ## Skills
-
+<div align="center">
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
@@ -35,7 +35,7 @@ I love building web applications, solving complex problems, and continuously lea
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)  
-
+</div>
 ---
 
 ⭐️ **Show some ❤️ by starring my repositories!**  
