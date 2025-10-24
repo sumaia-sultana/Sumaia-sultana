@@ -17,9 +17,9 @@ I love building web applications, solving complex problems, and continuously lea
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=readme&logoColor=white)](https://sumaia-sultana.vercel.app/)  
 
 ---
-
-## Skills
 <div align="center">
+## Skills
+
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
