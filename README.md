@@ -14,7 +14,7 @@ I love building web applications, solving complex problems, and continuously lea
 ---
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-sultana07/))  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=readme&logoColor=white)]([(https://sumaia-sultana.vercel.app/])  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=flat-square&logo=readme&logoColor=white)](https://sumaia-sultana.vercel.app/)  
 
 ---
 
