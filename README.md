@@ -42,8 +42,6 @@ I love building web applications, solving complex problems, and continuously lea
 
 ## 📈 GitHub Stats
 
-![Sumaia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumaia-sultana&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumaia-sultana&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumaia-sultana&theme=tokyonight)
