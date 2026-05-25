@@ -5,12 +5,12 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=your-username&style=flat-square)](https://github.com/your-username)
 
 ## About Me
-I'm a passionate **Mern-Stack Developer** specializing in **React, Express.js, and MongoDB**.  
+I'm a passionate **Full-Stack Developer** specializing in **React, Express.js, and MongoDB**.  
 I love building web applications, solving complex problems, and continuously learning new technologies.  
 
-- 🌱 I'm currently exploring **Next.js**
+- 🌱 I'm currently exploring **Python**
 - 👯 I'm looking to collaborate on **open-source projects**
-- 💬 Ask me about **JavaScript, React, Express.js, or Web Development** 
+- 💬 Ask me about **JavaScript, React,Next.js, Express.js, or Web Development** 
 ---
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumaiya-sultana07/)
